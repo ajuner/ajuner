@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Front-end developer working on [@Loctek](https://www.loctek.com/products?c=22?a=1)
+I'm a Front-end developer working on [@Loctek](https://www.loctek.com/products?c=22&a=1)
 
 🌱 🌱 🌱
 
