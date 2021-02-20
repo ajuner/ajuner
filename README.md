@@ -4,7 +4,7 @@ I'm a Front-end developer working on [@Loctek](https://www.loctek.com/products?c
 
 🌱 🌱 🌱
 
-I'm passionate about learning some cool front-end technologies and active in [@ant-design-vue](https://github.com/vueComponent/ant-design-vue)
+I'm passionate about learning some cool front-end technologies and active in [@ant-design-vue](https://github.com/vueComponent/ant-design-vue) ant [@zoo-js](https://github.com/zoo-js/zoo)
 
 🤔 🤔 🤔
 
